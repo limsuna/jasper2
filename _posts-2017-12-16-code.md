@@ -1,0 +1,15 @@
+---
+layout: post
+current: post
+cover: 스크린샷 2017-12-17 오후 7.51.26
+navigation: True
+title: code
+date: 2017-12-16 10:18:00
+tags: code
+class: post-template
+subclass: 'post tag-fiction'
+author: suna
+categories: edgar
+---
+
+ONION의 실행코드 입니다!!
