@@ -13,6 +13,7 @@ categories:
 ---
 ONION 초기 영상
 https://youtu.be/sWg3Udryb3U
+<iframe width="854" height="480" src="https://www.youtube.com/embed/sWg3Udryb3U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 중간발표 영상
 https://www.youtube.com/watch?v=SjSqNTuhccE
