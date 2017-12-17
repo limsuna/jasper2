@@ -1,27 +1,27 @@
 ---
 layout: post
 current: post
-cover: assets/images/grapes.jpg
+cover: ![report10] (https://postfiles.pstatic.net/MjAxNzEyMTdfNTIg/MDAxNTEzNTE0NDA2NTUx.Puvg0DBa0D3RldOB4JQcQCnPsg1g1ZSNZk9DW-tY5_Qg.aD2ga6DqXEnD2zz4SBjB_NDJsXPEvr_oqo9fehJ6sxcg.PNG.lsa_sss/%EC%97%AC%EC%84%AF.png?type=w966)
 navigation: True
-title: The Purpose of Education
-date: 1948-12-12 10:18:00
-tags: speeches
+title: UNION 제작 보고서입니다.
+date: 2017-12-12 10:18:00
+tags: report
 class: post-template
 subclass: 'post tag-speeches'
-author: martin
-categories: martin
+author: suna
+categories: suna
 ---
+저희는 이런 순서로 프로젝트를 진행하였습니다!
 
-As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+![report1] (https://postfiles.pstatic.net/MjAxNzEyMTdfMTY2/MDAxNTEzNTE0NDA2NTc3.CgTCAfDrZXNVUC5N9gr6p3LJRb_Lvp6NE4TinF3WSIEg.uf_QULxcSZY0gmqjtA2KZ95qVQi0iiwHQjCah8kFcakg.PNG.lsa_sss/%EB%91%98.png?type=w966)
 
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+![report2] (https://postfiles.pstatic.net/MjAxNzEyMTdfMTUw/MDAxNTEzNTE0NDA2NTg4.gXhsWqphla8Z5i0fg3ikFYObcozFyKJPug-AFOnl4zwg.SMYVGfIEGQs8zgb1_kDp9w5wxOZ79aPLribaTMrUtgog.PNG.lsa_sss/%ED%95%98%EB%82%98.png?type=w966)
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+![report3] (https://postfiles.pstatic.net/MjAxNzEyMTdfMTU4/MDAxNTEzNTE0NDA2NTgz.f75BNfRRGlwzvDlq9Vr7YQN7m-xtoI82CsdiwLrmBFIg.qf6192xu3bTxqE9caF1Wtem0SW-8iklJSzeNq_ZMVaAg.PNG.lsa_sss/%EC%85%8B.png?type=w966)
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+![report4] (https://postfiles.pstatic.net/MjAxNzEyMTdfMjMx/MDAxNTEzNTE0NDA2NTU2.VUa5YsYehaJ1VY_gtdkHgUpVU58O_AkOwBg4WnXUWqog.GBt09uGHT-FBuSyhv_y78SbHF23TvYe851QlMK5k1Swg.PNG.lsa_sss/%EB%84%B7.png?type=w966)
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+![report5] (https://postfiles.pstatic.net/MjAxNzEyMTdfNzAg/MDAxNTEzNTE0NDA2NTgx.u8HtyVfnEyhFwx0bCCl-H8QrdL0_fdr3HMDSKJVyWqog.yAnB8Fl8WToAt14Uh8fm-Pu4oUb-7V9YoZHzIXM380og.PNG.lsa_sss/%EB%8B%A4%EC%84%AF.png?type=w966)
 
-If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, "brethren!" Be careful, teachers!
+![report6] (https://postfiles.pstatic.net/MjAxNzEyMTdfNTIg/MDAxNTEzNTE0NDA2NTUx.Puvg0DBa0D3RldOB4JQcQCnPsg1g1ZSNZk9DW-tY5_Qg.aD2ga6DqXEnD2zz4SBjB_NDJsXPEvr_oqo9fehJ6sxcg.PNG.lsa_sss/%EC%97%AC%EC%84%AF.png?type=w966)
