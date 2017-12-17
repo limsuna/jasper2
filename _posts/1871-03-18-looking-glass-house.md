@@ -11,7 +11,7 @@ subclass: 'post tag-fiction'
 author: suna
 categories:
 ---
-UNION 초기 영상
+ONION 초기 영상
 https://youtu.be/sWg3Udryb3U
 
 중간발표 영상
