@@ -3,17 +3,12 @@ layout: post
 current: post
 cover: assets/images/bus.jpg
 navigation: True
-title: Gettysburg Address
-date: 1863-11-19 10:18:00
+title: review
+date: 2017-12-14 10:18:00
 tags:
 class: post-template
 subclass: 'post'
-author: abraham
+author: suna
 categories: abraham
 ---
-
-Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
-
-Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
-
-But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.
+이번 프로젝트를 하면서 처음에는 막막했지만 내가 만든 제품을 만들고 보니 아주 뿌듯했습니다! 4개월동안 장기 프로젝트를 하면서 그동안 얻은것이 많은것 같습니다! 그리고 실제로 하나의 프로덕트를 만들때 어떻게 만들면 되는지 계획해보는 시간을 가지면서 제품 개발과정에 대해 이해할수 있었습니다. 아주 뿌듯한 경험이었습니다.!
