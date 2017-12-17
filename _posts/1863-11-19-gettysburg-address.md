@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/bus.jpg
+cover: ![a](http://postfiles9.naver.net/MjAxNzEyMTdfMTYx/MDAxNTEzNTEyOTg3NzA5.kNDvceVuX3gbV-Gu1mrGmB63zIVzik8rYHzSnRNsAsAg.iM2ew072rGH4SVWD5lp5YSNXeX6-AOw9Jo102xZOsTwg.JPEG.lsa_sss/onion.jpeg?type=w966_
 navigation: True
 title: review
 date: 2017-12-14 10:18:00
